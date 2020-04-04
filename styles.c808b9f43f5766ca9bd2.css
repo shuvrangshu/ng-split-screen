@@ -1,0 +1,1 @@
+body{margin:0}.leftSide,.rightSide,.splitter{position:absolute;height:100%}.splitter{width:10px;z-index:100;cursor:col-resize}.leftSide>div,.rightSide>div{height:100%;width:100%;position:relative}
